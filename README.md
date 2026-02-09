@@ -1,130 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ravindra Kumar Prajapat</h1>
-<h3 align="center">MERN Stack Web Developer | DevOps Enthusiast</h3>
+Hi 👋 My name is Ravindra Kumar Prajapat
+========================================
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravindraprajapat779&label=Profile%20views&color=0e75b6&style=flat" alt="ravindraprajapat779" />
+Web developer and Backend developer
+-----------------------------------
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [ravindraprajapat779@gmail.com](mailto:ravindraprajapat779@gmail.com)
+* 🧠  I'm currently learning Advanced Backend and Microservices secure Backend System
+* 👥  I'm looking to collaborate on Backend System
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-### 🚀 About Me
+<p align="left"> <a href="https://www.github.com/Ravindra78" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
 
-- 🔭 I’m currently working on **Project Name**  
-- 👯 I’m looking to collaborate on **Backend Projects**  
-- 🤝 I’m looking for help with **Project Name**  
-- 🌱 I’m currently learning **AI & Microservices**  
-- 💬 Ask me about **Node.js, Golang**  
-- 📫 How to reach me **ravindraprajapat779@gmail.com**  
-- 👨‍💻 All of my projects are available at **Portfolio Link**  
-- 📝 I regularly write articles on **Blog Link**  
-- 📄 Know about my experiences **Resume Link**  
-- ⚡ Fun fact **I think I am funny 😄**
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/Ravindra78"><img src="https://github-readme-stats.vercel.app/api?username=Ravindra78&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Ravindra78's GitHub stats" /></a>
 
-### 🧠 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,ts,php,python,ruby,scala,swift,rust" />
-</p>
+<a href="http://www.github.com/Ravindra78"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindra78&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
+<b>Top Repositories</b>
 
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,html,css,tailwind,bootstrap,redux,webpack,babel,sass" />
-</p>
-
----
-
-### 🛠 Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql,kafka,rabbitmq,nginx" />
-</p>
-
----
-
-### 📱 Mobile App Development
-<p>
-<img src="https://skillicons.dev/icons?i=android,flutter,dart,kotlin,reactnative" />
-</p>
-
----
-
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" />
-</p>
-
----
-
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
-</p>
-
----
-
-### 📊 Data Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=grafana,kibana" />
-</p>
-
----
-
-### ⚙️ DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,gcp,azure,bash,linux" />
-</p>
-
----
-
-### ☁ Backend as a Service (BaaS)
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,appwrite,heroku" />
-</p>
-
----
-
-### 🧪 Testing
-<p>
-<img src="https://skillicons.dev/icons?i=jest,cypress,selenium" />
-</p>
-
----
-
-### 🧰 Tools & Software
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,postman,git,github,linux" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p>
-<a href="https://github.com/ravindraprajapat779"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://instagram.com/your-instagram"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindraprajapat779&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindraprajapat779&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindraprajapat779&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindraprajapat779&theme=onedark&no-frame=true&row=1" />
-</p>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
